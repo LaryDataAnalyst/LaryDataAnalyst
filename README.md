@@ -1,7 +1,6 @@
-# LaryDataAnalyst
 
 # laryssefreire
- meu repositorio
+
 
  # Bem-vindo ao Meu Perfil do GitHub!
 
