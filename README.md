@@ -1,7 +1,7 @@
 
 # Olá, eu sou Larysse Freire 👋
 
-### 🚀 Data Engineer | Big Data & IA Generativa
+### 🚀 Engenheira de dados | Big Data & IA Generativa
 
 Engenheira de Dados com atuação no setor financeiro, especializada no ecossistema Databricks, processamento distribuído com PySpark/Spark, pipelines ETL/ELT e integração de soluções de Inteligência Artificial (RAG, Chatbots e Classificação).
 
