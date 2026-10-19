@@ -8,7 +8,7 @@ Engenheira de Dados com atuação no setor financeiro, especializada no ecossist
 - 🛠️ **Tech Stack Principal:** Databricks, PySpark, SQL, Python, BigQuery, ETL/ELT, Data Quality, RAG / GenAI
 - 📊 **Visualização & BI:** Power BI, Looker Studio
 - 🎓 **Formação:** Tecnólogo em Banco de Dados (FAM) | Bacharel em Administração (UNIBRA)
-- 📬 **Contato:** [LinkedIn](https://linkedin.com/in/seu-perfil) | [E-mail](freirelarysse@gmail.com)
+- 📬 **Contato:** [LinkedIn](https://www.linkedin.com/in/larysse-freire-302a67156/)) | [E-mail](freirelarysse@gmail.com)
 
 ---
 
